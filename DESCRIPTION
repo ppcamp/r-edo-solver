@@ -1,0 +1,10 @@
+Package: CalcAlgorithms
+Type: Package
+Title: Some mathematical algorithms used in numeric solutions
+Version: 0.1.0
+Author: ppcamp
+Maintainer: <p.augustocampos@gmail.com>
+Description: It does have some functions like ODE solutions by RK4 and Euller,it does have too bissec root solution.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
